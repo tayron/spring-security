@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.algaworks</groupId>
-	<artifactId>artigo-spring-security</artifactId>
+	<artifactId>spring-security</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>artigo-spring-security</name>
+	<name>spring-security</name>
 	<description>Artigo sobre Spring Security</description>
 	<url>http://blog.algaworks.com/spring-security</url>
 
